@@ -18,7 +18,7 @@
 
 Вам необходимо сверстать страницу по предложенному макету, в данном макете есть форма, которая должна иметь определенную логику, ниже будет более подробно рассказано как должна работать форма.
 
-Ссылка на [Макет страницы](https://www.figma.com/proto/Pil4PPtD67hXR3OzEz1wFf/Untitled?page-id=0%3A1&node-id=1-414&node-type=frame&viewport=-53%2C221%2C0.28&t=T1BFqu7NZeMnCQIF-1&scaling=min-zoom&content-scaling=fixed)
+Ссылка на [Макет страницы](https://www.figma.com/design/Pil4PPtD67hXR3OzEz1wFf/Untitled?node-id=1-414&t=X7X2gJp88kz2VyTA-1)
 
 
 ### Технологии
